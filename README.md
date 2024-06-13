@@ -1,10 +1,10 @@
-## Drivelab website
+# Drivelab website
 
 ![Media1](Media1.gif) <br>
 *GFP labelled neurons send long-range axons from<br>
-the <font color="blue">prefrontal cortex (blue)</font> to the <font color="pink">lateral hypothalamus (pink)</font>.*
+the <font color="blue">prefrontal cortex</font> to the <font color="magenta">lateral hypothalamus</font>.*
 
-# Mission
+## Mission
 We study how the brain controls behaviour. In particular, we are currently focused on how long-range inputs into the hypothalamus control instinctive behaviours like feeding. More specifically, our ongoing work is uncovering operational principles of cortical control of the lateral hypothalamus, and motivational switching. Read more in our latest paper, [Hartmann et al. 2024](https://doi.org/10.24072/pcjournal.416).
 
 The lateral hypothalamus has limited local circuitry - to the point of not containing any microcircuitry of the type we are used to seeing in the cortex. You can read more about this in our previous work: [Burdakov & Karnani 2020](https://doi.org/10.1016/j.cub.2020.07.061) and [Karnani et al. 2016](http://doi.org/10.1016/j.neuron.2016.02.037).
@@ -13,7 +13,7 @@ These findings have been replicated by other investigators in hypothalamic areas
 
 Because of this lack of local circuitry, it is important to find out what long-range input is coming into the hypothalamus. In the absence of local processing, upstream processing and the functional identity of input sources is everything...<br>
 
-# People
+## People
 Current members: <br>
 [Mahesh Karnani, Chancellor's Fellow, University of Edinburgh](https://discovery-brain-sciences.ed.ac.uk/dr-mahesh-miikael-karnani)<br>
 [Lotte Razenberg, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://research.vu.nl/en/persons/lotte-razenberg)<br>
@@ -27,3 +27,16 @@ Pieter de Greef 2022 (BSc VU -> MSc VU) <br>
 Ambika Mahajan 2022 (MSc VU -> PhD VU) <br>
 Andre Borba 2021 (MSc VU) <br>
 Vinicius Borges 2021 (MSc VU) <br>
+
+## Values
+We believe that sharing information and minimizing access barriers is necessary to: 
+1. maximize the rate of progress in neuroscience
+2. increase the efficiency of research spending
+3. include all people with skills whether or not they are priced out from using the techniques they are skilled at
+
+We aim to address these through:
+1. sharing new information and tools as soon as we have found them
+2. preprint, publish and read for free; decrease expending time and money on an [inefficient system of communication](https://doi.org/10.1098/rsos.230206)
+3. use, create and promote affordable tools
+
+Therefore, we participate in [open design](https://www.researchequals.com/maheshkarnani), [open data](https://osf.io/yb67q/), [open peer-review](https://neuro.peercommunityin.org/articles/rec?id=1), [diamond open access](https://peercommunityjournal.org/articles/10.24072/pcjournal.416/), [preprinting](https://www.biorxiv.org/content/10.1101/2024.01.31.578188v3) and [grass-roots community building](https://prelights.biologists.com/profiles/mahesh-karnani/).
