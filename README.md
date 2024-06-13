@@ -1,7 +1,6 @@
 ## Drivelab website
 
-![Media1](Media1.gif) 
-
+![Media1](Media1.gif) <br>
 *GFP labelled neurons send long-range <br>
 axons from the prefrontal cortex (blue) <br>
 to the lateral hypothalamus (pink).*
@@ -12,7 +11,7 @@ The lateral hypothalamus has limited local circuitry - to the point of not conta
 
 These findings have been replicated by other investigators in hypothalamic areas including lateral hypothalamus by [Shao et al. 2022](https://doi.org/10.1016/j.cub.2022.05.029), and the neighbouring subthalamic nucleus by [Steiner et al 2019](https://doi.org/10.1523/JNEUROSCI.1642-18.2019).
 
-Because of this lack of local circuitry, it is important to find out what long-range input is coming into the hypothalamus. In the absence of local processing, upstream processing and the functional identity of input sources is everything...
+Because of this lack of local circuitry, it is important to find out what long-range input is coming into the hypothalamus. In the absence of local processing, upstream processing and the functional identity of input sources is everything...<br>
 
 
 Current members: <br>
@@ -22,14 +21,9 @@ Current members: <br>
 
 Alumni: <br>
 Ann Katigbak 2023 (BSc VU -> MSc Donders) <br>
-Mette Kongstorp 2023 (Postdoc secondment from UiT The Arctic University of Norway) 
-
-Yves Thönnes 2023 (Visiting scholar) 
-
-Pieter de Greef 2022 (BSc VU -> MSc VU) 
-
-Ambika Mahajan 2022 (MSc VU -> PhD VU) 
-
-Andre Borba 2021 (MSc VU) 
-
-Vinicius Borges 2021 (MSc VU) 
+Mette Kongstorp 2023 (Postdoc secondment from UiT The Arctic University of Norway) <br>
+Yves Thönnes 2023 (Visiting scholar) <br>
+Pieter de Greef 2022 (BSc VU -> MSc VU) <br>
+Ambika Mahajan 2022 (MSc VU -> PhD VU) <br>
+Andre Borba 2021 (MSc VU) <br>
+Vinicius Borges 2021 (MSc VU) <br>
