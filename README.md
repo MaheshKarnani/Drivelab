@@ -34,9 +34,9 @@ We believe that sharing information and minimizing access barriers is necessary 
 2. increase the efficiency of research spending
 3. include all people with skills whether or not they are priced out from using the techniques they are skilled at
 
-We aim to address these through:
-1. sharing new information and tools as soon as we have found them
-2. preprint, publish and read for free; decrease expending time and money on an [inefficient system of communication](https://doi.org/10.1098/rsos.230206)
+To achieve these goals, we:
+1. share new information and tools as soon as we have found them
+2. preprint, publish and read for free; decrease expending time and money on an [inefficient system of communication](https://doi.org/10.1098/rsos.230206); contribute to ways of decoupling evaluation and dissemination from commercial publishing
 3. use, create and promote affordable tools
 
 Therefore, we participate in [open design](https://www.researchequals.com/maheshkarnani), [open data](https://osf.io/yb67q/), [open peer-review](https://neuro.peercommunityin.org/articles/rec?id=1), [diamond open access](https://peercommunityjournal.org/articles/10.24072/pcjournal.416/), [preprinting](https://www.biorxiv.org/content/10.1101/2024.01.31.578188v3) and [grass-roots community building](https://prelights.biologists.com/profiles/mahesh-karnani/).
