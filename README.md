@@ -1,6 +1,7 @@
 ## Drivelab website
 
 ![Media1](Media1.gif) 
+
 *GFP labelled neurons send long-range 
 axons from the prefrontal cortex (blue) 
 to the lateral hypothalamus (pink).*
@@ -15,15 +16,25 @@ Because of this lack of local circuitry, it is important to find out what long-r
 
 
 Current members: 
+
 [Mahesh Karnani, Chancellor's Fellow, University of Edinburgh](https://discovery-brain-sciences.ed.ac.uk/dr-mahesh-miikael-karnani)
+
 [Lotte Razenberg, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://research.vu.nl/en/persons/lotte-razenberg)
+
 [Clara Hartmann, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://scholar.google.com/citations?user=gPVQzjEAAAAJ&hl=en)
 
 Alumni: 
+
 Ann Katigbak 2023 (BSc VU -> MSc Donders) 
+
 Mette Kongstorp 2023 (Postdoc secondment from UiT The Arctic University of Norway) 
+
 Yves Thönnes 2023 (Visiting scholar) 
+
 Pieter de Greef 2022 (BSc VU -> MSc VU) 
+
 Ambika Mahajan 2022 (MSc VU -> PhD VU) 
+
 Andre Borba 2021 (MSc VU) 
+
 Vinicius Borges 2021 (MSc VU) 
