@@ -7,7 +7,28 @@ the <font color="blue">prefrontal cortex</font> to the <font color="magenta">lat
 ## Mission
 We study how the brain controls behaviour. In particular, we are currently focused on how long-range inputs into the hypothalamus control instinctive behaviours like feeding. More specifically, our ongoing work is uncovering operational principles of cortical control of the lateral hypothalamus, and motivational switching. Read more in our latest paper, [Hartmann et al. 2024](https://doi.org/10.24072/pcjournal.416).
 
-The lateral hypothalamus has limited local circuitry - to the point of not containing any microcircuitry of the type we are used to seeing in the cortex. You can read more about this in our previous work: [Burdakov & Karnani 2020](https://doi.org/10.1016/j.cub.2020.07.061) and [Karnani et al. 2016](http://doi.org/10.1016/j.neuron.2016.02.037).
+The lateral hypothalamus has limited local circuitry - to the point of not containing any microcircuitry of the type we are used to seeing in the cortex. You can read more about this in our previous work: [Burdakov & Karnani 2020](https://doi.org/10.1016/j.cub.2020.07.061) and [Karnani et al. 2016](http://doi.org/10.1016/j.neuron.2016.02.037
+
+            
+            
+
+              
+                1 comment on PubPeer (by: Mahesh M. Karnani)
+              
+            
+
+          
+
+            
+            
+
+              
+                1 comment on PubPeer (by: Mahesh M. Karnani)
+              
+            
+
+          
+).
 
 These findings have been replicated by other investigators in hypothalamic areas including lateral hypothalamus by [Shao et al. 2022](https://doi.org/10.1016/j.cub.2022.05.029), and the neighbouring subthalamic nucleus by [Steiner et al 2019](https://doi.org/10.1523/JNEUROSCI.1642-18.2019).
 
@@ -17,7 +38,9 @@ Because of this lack of local circuitry, it is important to find out what long-r
 Current members: <br>
 [Mahesh Karnani, Chancellor's Fellow, University of Edinburgh](https://discovery-brain-sciences.ed.ac.uk/dr-mahesh-miikael-karnani)<br>
 [Lotte Razenberg, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://research.vu.nl/en/persons/lotte-razenberg)<br>
-[Clara Hartmann, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://scholar.google.com/citations?user=gPVQzjEAAAAJ&hl=en)
+[Clara Hartmann, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://scholar.google.com/citations?user=gPVQzjEAAAAJ&hl=en)<br>
+[Aerin Dumenil, BHF MSc, University of Edinburgh](https://www.linkedin.com/in/aerin-dumenil-928b3b204)<br>
+[Jason Jung, Research Assistant, University of Edinburgh](https://www.linkedin.com/in/hh-jason-jung)<br>
 
 Alumni: <br>
 Ann Katigbak 2023 (BSc VU -> MSc Donders) <br>
