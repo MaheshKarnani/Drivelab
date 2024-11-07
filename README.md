@@ -28,7 +28,7 @@ Yves Thönnes 2023 (Visiting scholar) <br>
 Pieter de Greef 2022 (BSc VU -> MSc VU) <br>
 Ambika Mahajan 2022 (MSc VU -> PhD VU) <br>
 Andre Borba 2021 (MSc VU) <br>
-Vinicius Borges 2021 (MSc VU) <br>
+Vinicius Borges 2021 (MSc VU -> National Treasury of Brazil) <br>
 
 ## Values
 We believe that sharing information and minimizing access barriers is necessary to: 
