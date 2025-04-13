@@ -4,7 +4,7 @@
 *GFP labelled neurons send long-range axons from<br>
 the <font color="blue">prefrontal cortex</font> to the <font color="magenta">lateral hypothalamus</font>.*
 
-![Media2](mazerex2/fem2_RIctrl/rig1output.svg)
+![rig1output](https://github.com/MaheshKarnani/mazerex2/blob/main/fem2_RIctrl/rig1output.svg)
 *Live experiments.
 
 ## Mission
