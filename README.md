@@ -5,7 +5,7 @@
 the <font color="blue">prefrontal cortex</font> to the <font color="magenta">lateral hypothalamus</font>.*
 
 ![rig1output](https://github.com/MaheshKarnani/mazerex2/blob/main/fem2_RIctrl/rig1output.svg)
-*Live experiments.
+_Live experiments._
 
 ## Mission
 We study how the brain controls behaviour. In particular, we are currently focused on how long-range inputs into the hypothalamus control instinctive behaviours like feeding. More specifically, our ongoing work is uncovering operational principles of cortical control of the lateral hypothalamus [Razenberg et al. 2024](https://doi.org/10.1101/2024.11.15.623801), and motivational switching [Hartmann et al. 2024](https://doi.org/10.24072/pcjournal.416).
