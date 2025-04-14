@@ -23,6 +23,7 @@ Current members: <br>
 [Clara Hartmann, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://scholar.google.com/citations?user=gPVQzjEAAAAJ&hl=en)<br>
 [Aerin Dumenil, BHF MSc, University of Edinburgh](https://www.linkedin.com/in/aerin-dumenil-928b3b204)<br>
 [Jason Jung, Research Assistant, University of Edinburgh](https://www.linkedin.com/in/hh-jason-jung)<br>
+[Martyna Stasiak, WT Translational Neuroscience rotation scholar, University of Edinburgh](https://www.linkedin.com/in/martyna-stasiak-045344227/?originalSubdomain=uk)<br>
 
 Alumni: <br>
 Ann Katigbak 2023 (BSc VU -> MSc Donders) <br>
