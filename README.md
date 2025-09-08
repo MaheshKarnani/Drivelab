@@ -24,11 +24,11 @@ Current members: <br>
 [Clara Hartmann, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://scholar.google.com/citations?user=gPVQzjEAAAAJ&hl=en)<br>
 
 Alumni: <br>
-Emma Walsh 2025 (BMTO Summer scholarship, UoE)
-Jiale Yin 2025 (MSc, UoE)
-Martyna Stasiak 2025 (WT PhD programme, UoE)
-Aerin Dumenil 2024-2025 (BHF PhD programme, UoE)
-Jason Jung 2024 (Research Assistant, UoE)
+Emma Walsh 2025 (BMTO Summer scholarship, UoE) <br>
+Jiale Yin 2025 (MSc, UoE) <br>
+Martyna Stasiak 2025 (WT PhD programme, UoE) <br>
+Aerin Dumenil 2024-2025 (BHF PhD programme, UoE) <br>
+Jason Jung 2024 (Research Assistant, UoE) <br>
 Ann Katigbak 2023 (BSc VU -> MSc Donders) <br>
 Mette Kongstorp 2023 (Postdoc secondment from UiT, Norway) <br>
 Yves Thönnes 2023 (Visiting scholar) <br>
