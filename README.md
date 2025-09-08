@@ -39,9 +39,9 @@ Vinicius Borges 2021 (MSc VU -> National Treasury of Brazil) <br>
 
 ## Values
 We believe that sharing information and minimizing access barriers is necessary to: 
-1. maximize the rate of progress in neuroscience
-2. increase the efficiency of research spending
-3. include all people with skills whether or not they are priced out from using the techniques they are skilled at
+1. Maximize the rate of progress in neuroscience.
+2. Increase the efficiency of research spending.
+3. Include all people with skills, whether or not they are priced out from using the techniques they are skilled at.
 
 To achieve these goals, we:
 1. Share new information and tools as soon as we have found them.
