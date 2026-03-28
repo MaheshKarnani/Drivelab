@@ -43,6 +43,13 @@ Ambika Mahajan 2022 (MSc VU -> PhD VU) <br>
 Andre Borba 2021 (MSc VU) <br>
 Vinicius Borges 2021 (MSc VU -> National Treasury of Brazil) <br>
 
+## Techniques
+![Media1](Media1.gif) <br>
+![Media1](Media1.gif) <br>
+![Media1](Media1.gif) <br>
+*Miniscope calcium imaging of PFC neurons projecting to LH.<br>
+
+
 ## Values
 We believe that sharing information and minimizing access barriers is necessary to: 
 1. Maximize the rate of progress in neuroscience.
