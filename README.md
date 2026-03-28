@@ -44,11 +44,19 @@ Andre Borba 2021 (MSc VU) <br>
 Vinicius Borges 2021 (MSc VU -> National Treasury of Brazil) <br>
 
 ## Techniques
-![Media1](Media1.gif) <br>
-![Media1](Media1.gif) <br>
-![Media1](Media1.gif) <br>
+![T0](T0.png) <br>
+*Anatomical labelling of PFC neurons projecting to LH.<br>
+
+![T1](T1.png) <br>
+![T2](T2.gif) <br>
+![T3](T3.png) <br>
 *Miniscope calcium imaging of PFC neurons projecting to LH.<br>
 
+![T4](T4.png) <br>
+*Patch clamp analysis of synaptic connectivity in LH and PFC.
+A, Multiple simultaneous patch clamp recordings in acute slices from LH (above) and PFC (below).
+B, One recording showing the first and only recorded unitary synaptic connection in LH (above) and typical dense connectivity in PFC (below).
+C, Connectivity matrices across multiple recordings from LH (above) and PFC (below).<br>
 
 ## Values
 We believe that sharing information and minimizing access barriers is necessary to: 
