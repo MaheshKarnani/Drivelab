@@ -15,13 +15,19 @@ The lateral hypothalamus has limited local circuitry - to the point of not conta
 
 These findings have been replicated by other investigators in hypothalamic areas including lateral hypothalamus by [Shao et al. 2022](https://doi.org/10.1016/j.cub.2022.05.029), and the neighbouring subthalamic nucleus by [Steiner et al 2019](https://doi.org/10.1523/JNEUROSCI.1642-18.2019).
 
-Because of this lack of local circuitry, it is important to find out what long-range input is coming into the hypothalamus. In the absence of local processing, upstream processing and the functional identity of input sources is everything.<br>
+Because of this lack of local circuitry, it is important to find out what long-range input is coming into the hypothalamus. In the absence of local processing, upstream processing and the functional identity of input sources is everything.
+
+We use miniscope calcium imaging in vivo, patch clamp, neuroanatomical tracing, and automated behavioural measurements. <br>
 
 ## People
 Current members: <br>
 [Mahesh Karnani, Chancellor's Fellow, University of Edinburgh](https://discovery-brain-sciences.ed.ac.uk/dr-mahesh-miikael-karnani)<br>
 [Lotte Razenberg, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://research.vu.nl/en/persons/lotte-razenberg)<br>
 [Clara Hartmann, Brainscapes Scholar, Vrije Universiteit Amsterdam](https://scholar.google.com/citations?user=gPVQzjEAAAAJ&hl=en)<br>
+Robbie Ferguson 2026 (MRes Integrative Neuroscience, UoE) <br>
+Juste Grinskyte 2026 (MRes Integrative Neuroscience, UoE) <br>
+Fatima Casimiro-Manrique 2026 (Honours project, UoE) <br>
+Isha Saini 2026 (Honours project, UoE) <br>
 
 Alumni: <br>
 Emma Walsh 2025 (BMTO Summer scholarship, UoE) <br>
@@ -45,7 +51,7 @@ We believe that sharing information and minimizing access barriers is necessary 
 
 To achieve these goals, we:
 1. Share new information and tools as soon as we have found them.
-2. Preprint, publish and read for free; decrease expending time and money on an [inefficient system of communication](https://doi.org/10.1098/rsos.230206); contribute to ways of decoupling evaluation and dissemination from commercial publishing.
-3. Use, create and promote affordable tools.
+2. Use systems to preprint, publish and read for free; decrease expending time and money on an [inefficient system of communication](https://doi.org/10.1098/rsos.230206); contribute to ways of decoupling evaluation and dissemination from commercial publishing.
+3. Use, create and promote affordable tools, e.g. training open source miniscope use at the [Paris Spring School](https://parisneuro.ovh/).
 
 Therefore, we participate in [open design](https://www.researchequals.com/maheshkarnani), [open data](https://osf.io/yb67q/), [open peer-review](https://neuro.peercommunityin.org/articles/rec?id=1), [diamond open access](https://peercommunityjournal.org/articles/10.24072/pcjournal.416/), [preprinting](https://www.biorxiv.org/content/10.1101/2024.11.15.623801v1) and [grass-roots community building](https://prelights.biologists.com/profiles/mahesh-karnani/).
