@@ -2,7 +2,7 @@
 
 ![Media1](Media1.gif) <br>
 *GFP labelled neurons send long-range axons from<br>
-the <font color="blue">prefrontal cortex</font> to the <font color="magenta">lateral hypothalamus</font>.*
+the <font color="blue">prefrontal cortex</font> to the <font color="magenta">lateral hypothalamus (LH)</font>.*
 
 ![rig1output](https://github.com/MaheshKarnani/mazerex2/blob/main/fem2_RIctrl/rig1output.svg) <br>
 ![rig2output](https://github.com/MaheshKarnani/mazerex2/blob/main/mal1_RI/rig2output.svg) <br>
@@ -18,6 +18,35 @@ These findings have been replicated by other investigators in hypothalamic areas
 Because of this lack of local circuitry, it is important to find out what long-range input is coming into the hypothalamus. In the absence of local processing, upstream processing and the functional identity of input sources is everything.
 
 We use miniscope calcium imaging in vivo, patch clamp, neuroanatomical tracing, and automated behavioural measurements. <br>
+## Techniques
+![T0](T0.png) <br>
+_*Anatomical labelling of <font color="green">PFC neurons projecting to LH</font>.*_<br>
+
+
+![T1](T1.png) <br>
+![T2](T2.gif) 
+![T3](T3.png) <br>
+_*Miniscope calcium imaging of PFC neurons projecting to LH.*_<br>
+
+
+![T4](T4.png) <br>
+_*Patch clamp analysis of synaptic connectivity in LH and PFC.
+A, Multiple simultaneous patch clamp recordings in acute slices from LH (above) and PFC (below).
+B, One recording showing the first and only recorded unitary synaptic connection in LH (above) and typical dense connectivity in PFC (below).
+C, Connectivity matrices across multiple recordings from LH (above) and PFC (below).*_<br>
+
+## Values
+We believe that sharing information and minimizing access barriers is necessary to: 
+1. Maximize the rate of progress in neuroscience.
+2. Increase the efficiency of research spending.
+3. Include all people with skills, whether or not they are priced out from using the techniques they are skilled at.
+
+To achieve these goals, we:
+1. Share new information and tools as soon as we have found them.
+2. Use systems to preprint, publish and read for free; decrease expending time and money on an [inefficient system of communication](https://doi.org/10.1098/rsos.230206); contribute to ways of decoupling evaluation and dissemination from commercial publishing.
+3. Use, create and promote affordable tools, e.g. training open source miniscope use at the [Paris Spring School](https://parisneuro.ovh/).
+
+Therefore, we participate in [open design](https://www.researchequals.com/maheshkarnani), [open data](https://osf.io/yb67q/), [open peer-review](https://neuro.peercommunityin.org/articles/rec?id=1), [diamond open access](https://peercommunityjournal.org/articles/10.24072/pcjournal.416/), [preprinting](https://www.biorxiv.org/content/10.1101/2024.11.15.623801v1) and [grass-roots community building](https://prelights.biologists.com/profiles/mahesh-karnani/).
 
 ## People
 Current members: <br>
@@ -42,31 +71,3 @@ Pieter de Greef 2022 (BSc VU -> MSc VU) <br>
 Ambika Mahajan 2022 (MSc VU -> PhD VU) <br>
 Andre Borba 2021 (MSc VU) <br>
 Vinicius Borges 2021 (MSc VU -> National Treasury of Brazil) <br>
-
-## Techniques
-![T0](T0.png) <br>
-*Anatomical labelling of PFC neurons projecting to LH.<br>
-
-![T1](T1.png) <br>
-![T2](T2.gif) <br>
-![T3](T3.png) <br>
-*Miniscope calcium imaging of PFC neurons projecting to LH.<br>
-
-![T4](T4.png) <br>
-*Patch clamp analysis of synaptic connectivity in LH and PFC.
-A, Multiple simultaneous patch clamp recordings in acute slices from LH (above) and PFC (below).
-B, One recording showing the first and only recorded unitary synaptic connection in LH (above) and typical dense connectivity in PFC (below).
-C, Connectivity matrices across multiple recordings from LH (above) and PFC (below).<br>
-
-## Values
-We believe that sharing information and minimizing access barriers is necessary to: 
-1. Maximize the rate of progress in neuroscience.
-2. Increase the efficiency of research spending.
-3. Include all people with skills, whether or not they are priced out from using the techniques they are skilled at.
-
-To achieve these goals, we:
-1. Share new information and tools as soon as we have found them.
-2. Use systems to preprint, publish and read for free; decrease expending time and money on an [inefficient system of communication](https://doi.org/10.1098/rsos.230206); contribute to ways of decoupling evaluation and dissemination from commercial publishing.
-3. Use, create and promote affordable tools, e.g. training open source miniscope use at the [Paris Spring School](https://parisneuro.ovh/).
-
-Therefore, we participate in [open design](https://www.researchequals.com/maheshkarnani), [open data](https://osf.io/yb67q/), [open peer-review](https://neuro.peercommunityin.org/articles/rec?id=1), [diamond open access](https://peercommunityjournal.org/articles/10.24072/pcjournal.416/), [preprinting](https://www.biorxiv.org/content/10.1101/2024.11.15.623801v1) and [grass-roots community building](https://prelights.biologists.com/profiles/mahesh-karnani/).
